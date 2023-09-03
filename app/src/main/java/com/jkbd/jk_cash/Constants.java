@@ -13,7 +13,7 @@ public class Constants
 
     public static final String TASK_APP_INDEX = "0";
     public static final String HOME_PAGE = "index.php";
-    public static final String HOST_DOMAIN = "bentan.xyz";
+    public static final String HOST_DOMAIN = "developerbd.xyz";
 
     public static final String BASE_URL = "https://" + HOST_DOMAIN + "/" + APP_ID;
     public static final String APP_ROOT = BASE_URL + "/app";
