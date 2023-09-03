@@ -7,7 +7,7 @@ public class Constants
     public static final int APP_VERSION = 2;
     public static final Boolean SHOW_DRAWER = true;
     public static final String Ni_Kajol_DEV_URL = "https://t.me/Dev_BD";
-    public static final String ONESIGNAL_APP_ID = "bb16-13acd5037820";
+    public static final String ONESIGNAL_APP_ID = "0ceaa367-f8fe-4f50-b091-cab1dada9d75";
     public static final String EXTRA_PARAMS = "";
     public static final String PAKAGE_NAME = "com.jkbd.jk_cash";
 
